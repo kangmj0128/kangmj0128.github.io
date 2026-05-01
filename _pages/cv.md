@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: /assets/pdf/CV_Minjun Kang.pdf
+cv_pdf: /assets/pdf/CV_Minjun_Kang.pdf
 description: A summary of my education, professional experience, awards, and academic activities.
 toc:
   sidebar: left
