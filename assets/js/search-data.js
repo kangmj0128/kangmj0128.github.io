@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-interview",
+          title: "interview",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=94940&authorId=46874#!/list";
+          },
         },{id: "nav-press",
           title: "press",
           description: "Press releases, interviews, and media coverage.",
