@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://noahs-farm.xyz'>Co-Founder & CTO</a> at <strong>Noah's Farm</strong> · Ph.D. in Medicine(27), Seoul National University
+subtitle: Co-Founder & CTO at <a href='https://noahs-farm.xyz'>Noah's Farm</a> · Ph.D. in Medicine (2027), Seoul National University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>Singapore · Seoul</p>
     <p>mj@noahs-farm.xyz</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
   enabled: false
-  scrollable: true
-  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true
-  limit: 3
 ---
 
-I'm **Minjun Kang** — building AI that designs molecules, from medicine to taste.
+I am a AI Scientist and entrepreneur working at the intersection of **generative AI and biology**.
 
-I'm Co-Founder & CTO of [**Noah's Farm**](https://noahs-farm.xyz), a Singapore deep-tech startup creating **N-Palette**, a generative AI for flavor molecules. In parallel, I'm completing my Ph.D. in Medicine (27) at **Seoul National University**, where my Transformer-based models design novel **GPCR ligands** for cardiovascular regeneration.
+As **Co-Founder and Chief Technology Officer** of [**Noah's Farm**](https://noahs-farm.xyz), I lead the development of *N-Palette* — a proprietary generative AI system that designs novel flavor molecules at the chemical level. Our work brings the same generative principles transforming drug discovery to the global flavor industry.
 
-Previously valedictorian of SNU's M.S. in Medicine. My research was selected as **Top 5 Medical R&D in Korea (KHIDI, 25)** and **National R&D Excellence Top 100 (MSIT, 25)**.
+I am concurrently a **Ph.D. in Medicine (2027)** at **Seoul National University** (expected 2027), where my research develops Transformer-based generative models for designing novel ligands of **G protein–coupled receptors (GPCRs)**, with applications in cardiovascular regeneration and stem cell–based therapeutics. I previously completed my **M.S. in Medicine** at Seoul National University, graduating *summa cum laude* as valedictorian, and hold a **B.S. in Biomedical Sciences** from CHA University.
 
+My research has been recognized as one of the **Top 5 Medical R&D Projects in Korea** by the Korea Health Industry Development Institute (KHIDI, 2025) and selected for the **Korea National R&D Excellence Top 100** by the Ministry of Science and ICT (MSIT, 2025). I serve as a peer reviewer for several Springer Nature Q1 journals across medicine and food science, and am a Professional Member of the **American Heart Association**.
+
+#### Research Interests
+
+- GPCR biology and ligand discovery
+- Cardiovascular regeneration and molecular signaling
+- Generative AI models for medicine and beyond
+- Translational applications of stem cell and AI-based therapeutics
