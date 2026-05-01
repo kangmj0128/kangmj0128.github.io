@@ -15,7 +15,7 @@ Springer Nature
 - American Heart Association (AHA)- Professional Member
 - Association for Chemoreception Sciences - Member
 
-### Research Interests
+Research Interests
 - GPCR biology and ligand discovery
 - Cardiovascular regeneration and molecular signaling
 - Generative AI models for medicine
