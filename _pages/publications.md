@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 # Reviewer
-## Springer Nature
+### Springer Nature
 - Medicine : Scientific Reports, European Journal of Medical Research, BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics)
 - Food & Nutrition : npj Science of Food, European Journal of Nutrition, Nutrition Journal, Nutrition & Metabolism
 
@@ -15,7 +15,7 @@ nav_order: 2
 - American Heart Association (AHA)- Professional Member
 - Association for Chemoreception Sciences - Member
 
-## Research Interests
+### Research Interests
 - GPCR biology and ligand discovery
 - Cardiovascular regeneration and molecular signaling
 - Generative AI models for medicine
