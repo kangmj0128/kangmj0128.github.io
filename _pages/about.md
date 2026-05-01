@@ -22,10 +22,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a AI Scientist and entrepreneur working at the intersection of **generative AI and biology**.
+Researcher and entrepreneur at the intersection of **generative AI and biology**. Co-Founder & CTO of [**Noah's Farm**](https://noahs-farm.xyz) (Singapore), building *N-Palette* — proprietary generative AI for flavor molecule design.
 
-As **Co-Founder and Chief Technology Officer** of [**Noah's Farm**](https://noahs-farm.xyz), I lead the development of *N-Palette* — a proprietary generative AI system that designs novel flavor molecules at the chemical level. Our work brings the same generative principles transforming drug discovery to the global flavor industry.
+Ph.D. in Medicine (2027) at **Seoul National University**, developing Transformer-based models for **GPCR ligand discovery** in cardiovascular regeneration. Previously M.S. in Medicine, *summa cum laude* (valedictorian, SNU); B.S. in Biomedical Sciences (CHA University).
 
-I am concurrently a **Ph.D. in Medicine (2027)** at **Seoul National University** (expected 2027), where my research develops Transformer-based generative models for designing novel ligands of **G protein–coupled receptors (GPCRs)**, with applications in cardiovascular regeneration and stem cell–based therapeutics. I previously completed my **M.S. in Medicine** at Seoul National University, graduating *summa cum laude* as valedictorian, and hold a **B.S. in Biomedical Sciences** from CHA University.
-
-My research has been recognized as one of the **Top 5 Medical R&D Projects in Korea** by the Korea Health Industry Development Institute (KHIDI, 2025) and selected for the **Korea National R&D Excellence Top 100** by the Ministry of Science and ICT (MSIT, 2025). I serve as a peer reviewer for several Springer Nature Q1 journals across medicine and food science, and am a Professional Member of the **American Heart Association**.
+Selected as **Top 5 Medical R&D in Korea** (KHIDI, 2025) and **National R&D Excellence Top 100** (MSIT, 2025). Reviewer for Springer Nature Q1 journals · Professional Member, American Heart Association.
