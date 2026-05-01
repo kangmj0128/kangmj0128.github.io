@@ -16,6 +16,6 @@ description: My full CV. You can also download the PDF.
   </a>
 </div>
 
-<iframe src="/assets/pdf/CV_Minjun_Kang.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="/assets/pdf/CV_Minjun Kang.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 4px;">
   This browser does not support PDFs. Please <a href="/assets/pdf/CV_Minjun Kang.pdf">download the PDF</a> to view it.
 </iframe>
