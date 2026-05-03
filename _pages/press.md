@@ -33,7 +33,7 @@ Ministry of Health and Welfare, Korea Health Industry Development Institute (KHI
 ## 2024
 
 **Identification of a Novel Mechanism**  
-*Research highlight from Seoul National University Hospital, Korea.*  
+*SNUH team identifies mechanism for dilated cardiomyopathy.*  
 [Read more →](https://www.koreabiomed.com/news/articleView.html?idxno=25772)
 
 ---
