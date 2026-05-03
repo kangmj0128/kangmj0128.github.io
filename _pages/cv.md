@@ -8,10 +8,10 @@ description: My full CV. You can also download the PDF.
 ---
 
 <div style="margin-bottom: 1rem;">
-  <a href="/assets/pdf/CV_Minjun_Kang.pdf" target="_blank" class="btn btn-primary" download>
+  <a href="/assets/pdf/CV_Minjun Kang.pdf" target="_blank" class="btn btn-primary" download>
     📄 Download PDF
   </a>
-  <a href="/assets/pdf/CV_Minjun_Kang.pdf" target="_blank" class="btn btn-outline-primary" style="margin-left: 0.5rem;">
+  <a href="/assets/pdf/CV_Minjun Kang.pdf" target="_blank" class="btn btn-outline-primary" style="margin-left: 0.5rem;">
     🔗 Open in New Tab
   </a>
 </div>
