@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Co-Founder & CTO at <a href='https://noahs-farm.xyz'>Noah's Farm (Singapore) </a> · Ph.D. in Medicine (2027), Seoul National University (Korea)
+subtitle: Co-Founder & CTO at <a href='https://noahs-farm.xyz'>Noah's Farm (Singapore, US) </a> · Ph.D. in Medicine (2027), Seoul National University (Korea)
 
 profile:
   align: right
