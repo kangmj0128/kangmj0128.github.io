@@ -23,4 +23,4 @@ I am a researcher and entrepreneur working at the intersection of **generative A
 
 I am concurrently a **Ph.D. in Medicine (2027)** at **Seoul National University**, where I develop Transformer-based generative models for **GPCR ligand discovery** in cardiovascular regeneration. I previously completed my M.S. in Medicine at SNU, graduating *summa cum laude* as valedictorian, and hold a B.S. in Biomedical Sciences from CHA University.
 
-My research has been selected as one of the **Top 5 Medical R&D Projects in Korea** (KHIDI, 2025) and the **National R&D Excellence Top 100** (MSIT, 2025). I serve as a peer reviewer for Springer Nature Q1 journals and am a Professional Member of the American Heart Association.
+My research has been selected as one of the **Top 5 Medical R&D among 30 Healthcare Research projects** (KHIDI(Korea), 2025) and the **National R&D Excellence Top 100** (MSIT(Korea), 2025). I serve as a peer reviewer for Springer Nature Q1 journals and am a Professional Member of the American Heart Association.
