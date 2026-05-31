@@ -18,11 +18,30 @@ nav_order: 2
 
 ## Academic Activities
 
-**Reviewer**
-- **Medicine (Q1)**: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics).
-- **Food & Nutrition (Q1)**: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism, Discover Food.
+#### Peer Reviewer
 
-**Professional Memberships**
+<table style="width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="width: 90px; vertical-align: middle; border: none; padding: 0.5rem 1rem 0.5rem 0;">
+      <img src="/assets/img/logos/ffar.png" alt="FFAR" style="width: 80px; height: auto;">
+    </td>
+    <td style="vertical-align: middle; border: none;">
+      <strong>Foundation for Food and Agriculture Research (FFAR), USA</strong>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="width: 90px; vertical-align: middle; border: none; padding: 0.5rem 1rem 0.5rem 0;">
+      <img src="/assets/img/logos/springer.png" alt="Springer Nature" style="width: 80px; height: auto;">
+    </td>
+    <td style="vertical-align: middle; border: none;">
+      <strong>Springer Nature Q1 Journals</strong><br>
+      <em>Medicine</em>: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics)<br>
+      <em>Food & Nutrition</em>: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism · Discover Food
+    </td>
+  </tr>
+</table>
+
+#### Professional Memberships
 
 <table style="width: 100%; border: none;">
   <tr style="border: none;">
