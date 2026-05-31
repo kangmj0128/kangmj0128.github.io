@@ -18,7 +18,7 @@ nav_order: 2
 
 ## Academic Activities
 
-#### Peer Reviewer
+#### Reviewer
 
 <table style="width: 100%; border-collapse: collapse; border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 8px; overflow: hidden; margin-bottom: 1.5rem;">
   <tr style="border-bottom: 1px solid var(--global-divider-color, #e0e0e0);">
