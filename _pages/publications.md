@@ -34,14 +34,14 @@ nav_order: 2
       <img src="/assets/img/logos/springer.png" alt="Springer Nature" style="width: 80px; height: auto;">
     </td>
     <td style="vertical-align: middle; border: none;">
-      <strong>Springer Nature Q1 Journals</strong><br>
+      <strong>Springer Nature (Q1) </strong><br>
       <em>Medicine</em>: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics)<br>
       <em>Food & Nutrition</em>: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism · Discover Food
     </td>
   </tr>
 </table>
 
-#### Professional Memberships
+#### Memberships
 
 <table style="width: 100%; border: none;">
   <tr style="border: none;">
@@ -49,7 +49,7 @@ nav_order: 2
       <img src="/assets/img/logos/aha.png" alt="AHA" style="width: 70px; height: auto;">
     </td>
     <td style="vertical-align: middle; border: none;">
-      <strong>American Heart Association (AHA)</strong> — <em>Professional Member</em>
+      <strong>American Heart Association (AHA)</strong> — <em><strong>Professional</strong> Member</em>
     </td>
   </tr>
   <tr style="border: none;">
