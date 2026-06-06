@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-media",
-          title: "media",
-          description: "Interviews and op-eds.",
+        },{id: "nav-interview",
+          title: "interview",
+          description: "Selected interview.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/interview/";
