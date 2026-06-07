@@ -36,7 +36,7 @@ nav_order: 2
     <td style="vertical-align: middle; padding: 1rem;">
       <strong>Springer Nature (Q1)</strong><br>
       <em>Medicine</em>: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics)<br>
-      <em>Food & Nutrition</em>: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism · Discover Food
+      <em>Food & Nutrition</em>: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism · Discover Food · BMC Nutrition
     </td>
   </tr>
 </table>
