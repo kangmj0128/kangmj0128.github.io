@@ -26,7 +26,8 @@ nav_order: 2
       <img src="/assets/img/logos/ffar.png" alt="FFAR" style="width: 80px; height: auto;">
     </td>
     <td style="vertical-align: middle; padding: 1rem; background-color: rgba(181, 9, 172, 0.08);">
-      <strong style="font-size: 1.05em;">Foundation for Food and Agriculture Research (FFAR), USDA</strong>
+      <strong style="font-size: 1.05em;">Foundation for Food and Agriculture Research (FFAR), USDA</strong><br>
+      <em>Invited Grant Reviewer
     </td>
   </tr>
   <tr>
