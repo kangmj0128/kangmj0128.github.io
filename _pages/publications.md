@@ -55,10 +55,10 @@ nav_order: 2
   </tr>
   <tr>
     <td style="width: 110px; vertical-align: middle; padding: 1rem; text-align: center; background-color: rgba(128, 128, 128, 0.05);">
-      <img src="/assets/img/logos/achems.png" alt="AChemS" style="width: 70px; height: auto;">
+      <img src="/assets/img/logos/isscr.png" alt="ISSCR" style="width: 70px; height: auto;">
     </td>
     <td style="vertical-align: middle; padding: 1rem;">
-      <strong>Association for Chemoreception Sciences (AChemS)</strong> — <em>Member</em>
+      <strong>International Society for Stem Cell Research (ISSCR)</strong> — <em>Member</em>
     </td>
   </tr>
 </table>
