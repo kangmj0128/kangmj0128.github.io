@@ -50,7 +50,8 @@ nav_order: 2
       <img src="/assets/img/logos/aha.png" alt="AHA" style="width: 70px; height: auto;">
     </td>
     <td style="vertical-align: middle; padding: 1rem; background-color: rgba(181, 9, 172, 0.08);">
-      <strong style="font-size: 1.05em;"><a href="https://www.ahajournals.org/doi/10.1161/RES.0000000000000700" target="_blank" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #b509ac;">American Heart Association (AHA)</a></strong> — <em><span style="color: #b509ac; font-weight: bold;">Professional</span> Member</em>
+      <strong style="font-size: 1.05em;">American Heart Association (AHA)</strong> — <em><span style="color: #b509ac; font-weight: bold;">Professional</span> Member</em><br>
+<a href="https://www.ahajournals.org/doi/10.1161/RES.0000000000000700" target="_blank" style="display: inline-block; margin-top: 0.4rem; padding: 3px 10px; background-color: #b509ac; color: white; font-size: 0.8em; border-radius: 4px; text-decoration: none; font-weight: bold;">🔗 Link</a>
     </td>
   </tr>
   <tr>
