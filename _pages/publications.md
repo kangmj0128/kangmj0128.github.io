@@ -36,7 +36,7 @@ nav_order: 2
     </td>
     <td style="vertical-align: middle; padding: 1rem;">
       <strong>Springer Nature (Q1)</strong><br>
-      <em>Medicine</em>: Scientific Reports · BMC Medicine · <span style="color: var(--global-text-color-light);">+5 BMC journals</span><br>
+      <em>Medicine</em>: Scientific Reports · BMC Medicine · <span style="color: var(--global-text-color-light);">+5 journals</span><br>
       <em>Food & Nutrition</em>: npj Science of Food · European Journal of Nutrition · <span style="color: var(--global-text-color-light);">+4 journals</span>
     </td>
   </tr>
