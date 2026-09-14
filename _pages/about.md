@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Co-Founder & Chief Scientific Officer(Chief Scientist) at <a href='https://noahs-farm.xyz'>Noah's Farm Pte.Ltd.(Singapore, US) </a> · Ph.D. in Medicine (2027), Seoul National University (Korea)
+subtitle: Co-Founder & Chief Scientific Officer at <a href='https://noahs-farm.xyz/'>Noah's Farm Pte. Ltd.</a> · Ph.D. in Medicine, Seoul National University
 
 profile:
   align: right
@@ -19,8 +19,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a researcher and entrepreneur working at the intersection of **generative AI and biology**. As Co-Founder & Chief Scientific Officer (founding CTO) of [**Noah's Farm Pte. Ltd.**](https://noahs-farm.xyz) in Singapore, I lead the development of *N-Palette*, a proprietary generative AI system that designs novel flavor molecules at the chemical level.
+I am a scientist and entrepreneur working at the intersection of **generative AI and biology**.
 
-I am concurrently a **Ph.D. in Medicine (2027)** at **Seoul National University**, where I develop Transformer-based generative models for **GPCR ligand discovery** in cardiovascular regeneration. I previously completed my M.S. in Medicine at SNU, graduating *summa cum laude* as valedictorian, and hold a B.S. in Biomedical Sciences from CHA University.
+As Co-Founder and Chief Scientific Officer of [Noah's Farm](https://noahs-farm.xyz/), I lead the development of *N-Palette* — a proprietary generative AI system that designs novel flavor molecules at the chemical level.
 
-My research has been selected as one of the **Top 5 Medical R&D** among 30 Healthcare Research projects (KHIDI(Korea), 2025) and the **National R&D Excellence Top 100** (MSIT(Korea), 2025). I serve as a reviewer for the Foundation for Food and Agriculture Research (FFAR) and Springer Nature journals(Q1), and am a Professional Member of the American Heart Association.
+My research bridges **Transformer-based generative models** and **GPCR pharmacology**, with a focus on cardiovascular regeneration and stem cell–based therapeutics. Selected as **Top 5 Medical R&D in Korea** (KHIDI, 2025) and **National R&D Excellence Top 100** (MSIT, 2025).
