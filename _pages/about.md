@@ -8,6 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+  more_info: >
+    <p>🇸🇬 Singapore (HQ)</p>
+    <p>🇰🇷 Seoul · 🇺🇸 San Francisco</p>
+    <p>✉️ mj@noahs-farm.xyz</p>
 
 selected_papers: false
 social: true
