@@ -36,8 +36,8 @@ nav_order: 2
     </td>
     <td style="vertical-align: middle; padding: 1rem;">
       <strong>Springer Nature (Q1)</strong><br>
-      <em>Medicine</em>: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics)<br>
-      <em>Food & Nutrition</em>: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism · Discover Food · BMC Nutrition
+      <em>Medicine</em>: Scientific Reports · BMC Medicine · <span style="color: var(--global-text-color-light);">+5 BMC journals</span><br>
+      <em>Food & Nutrition</em>: npj Science of Food · European Journal of Nutrition · <span style="color: var(--global-text-color-light);">+4 journals</span>
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ nav_order: 2
     </td>
     <td style="vertical-align: middle; padding: 1rem; background-color: rgba(181, 9, 172, 0.08);">
       <strong style="font-size: 1.05em;">American Heart Association (AHA)</strong> — <em><span style="color: #b509ac; font-weight: bold;">Professional</span> Member</em><br>
-<a href="https://www.ahajournals.org/doi/10.1161/RES.0000000000000700" target="_blank" style="display: inline-block; margin-top: 0.4rem; padding: 3px 10px; background-color: #b509ac; color: white; font-size: 0.8em; border-radius: 4px; text-decoration: none; font-weight: bold;">🔗 Link</a>
+      <a href="https://www.ahajournals.org/doi/10.1161/RES.0000000000000700" target="_blank" style="display: inline-block; margin-top: 0.4rem; padding: 3px 10px; background-color: #b509ac; color: white; font-size: 0.8em; border-radius: 4px; text-decoration: none; font-weight: bold;">🔗 링크</a>
     </td>
   </tr>
   <tr>
