@@ -9,8 +9,10 @@ nav_order: 5
 
 ## 2025
 
-**Noah's Farm Pre-Seed Round**  
-*Raised KRW 4 billion (USD 2.8M) Pre-Seed from Sazze Partners (Silicon Valley) and Company K Partners (Korea).*  
+**Noah's Farm Pre-Seed Round**
+
+Noah's Farm — a Singapore-based generative AI startup co-founded by **YJ Jang** (CEO) and **MJ Kang** (CTO) — closed a KRW 4 billion (USD 2.8M) Pre-Seed round led by **Sazze Partners** (Silicon Valley) and **Company K Partners** (Korea).
+
 [Read more →](https://biz.chosun.com/en/en-it/2025/10/20/UZTFMQLD2ZD5VJ4JHJZDHD4DWY)
 
 ---
@@ -40,6 +42,8 @@ Ministry of Health and Welfare, Korea Health Industry Development Institute (KHI
 
 ## 2022
 
-**National Development Project Finalist — Cultured Meat**  
-*Selected as a finalist in the National Development Project (Topic: Cultured Meat) organized by the Korea Chamber of Commerce and Industry (KCCI).*  
+**National Development Project Finalist — Cultured Meat**
+
+**Kang, Minjun** (Seoul National University) led the research team selected as a finalist in the National Development Project (Topic: Cultured Meat), organized by the Korea Chamber of Commerce and Industry (KCCI).
+
 [Read more →](https://www.skyedaily.com/news/news_view.html?ID=148259)
