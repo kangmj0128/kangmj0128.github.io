@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Co-Founder & Chief Scientific Officer at <a href='https://noahs-farm.xyz/'>Noah's Farm Pte. Ltd.</a> · Ph.D. in Medicine, Seoul National University
+subtitle: Co-Founder & Chief Scientific Officer at <a href='https://noahs-farm.xyz/'>Noah's Farm Pte. Ltd.</a> · Seoul National University
 
 profile:
   align: right
@@ -23,11 +23,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a scientist and entrepreneur working at the intersection of **generative AI and biology**.
+I am a scientist and entrepreneur working at the intersection of **generative AI, physics, chemistry, and biology**.
 
 As Co-Founder and Chief Scientific Officer of [Noah's Farm](https://noahs-farm.xyz/), I lead the development of *N-Palette* — a proprietary generative AI system that designs novel flavor molecules at the chemical level.
 
-My research bridges **generative AI and GPCR pharmacology**, with a focus on cardiovascular regeneration and stem cell–based therapeutics. Selected as **Top 5 Medical R&D in Korea** (KHIDI, 2025) and **National R&D Excellence Top 100** (MSIT, 2025).
+My research integrates **physical, chemical, and biological principles** through generative AI, with applications in **GPCR ligand discovery**, cardiovascular regeneration, and stem cell–based therapeutics. Selected as **Top 5 Medical R&D in Korea** (KHIDI, 2025) and **National R&D Excellence Top 100** (MSIT, 2025).
 
 <style>
 .profile img {
